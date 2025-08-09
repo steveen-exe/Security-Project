@@ -1,36 +1,62 @@
----
-
-### 🔒 Author Verification
-
-This repository is the original work of **Steven Reji George**.  
-Any reuse or reproduction without credit is strictly prohibited.  
-For verification or collaboration, contact: `stevenreji21@gmail.com`.
-
-SHA256 Fingerprint: `2a5f8c...`  
-Generated on: 2025-08-08
-
-
-# Secure Projects Portfolio
-
-This repository showcases security-focused projects by **Steven Reji George**.
-
-## 🔐 Projects Included
-
-- **Perimeter Security Architecture & SIEM** – Redesigned network with ELK Stack, DMZ segmentation, and Zero Trust.
-- **System Compliance & Hardening** – Windows/Linux/macOS hardening, compliance policy enforcement, and CASB-based cloud security.
-- **Secure SDLC Implementation** – Secure login, container vulnerability scanning, API hardening, and threat modeling for CryptoV4ult.
-
-## 🧠 Skills Demonstrated
-
-Network Security, SIEM, Zero Trust, OS Hardening, Compliance, Cloud Security (CASB), Secure SDLC, Vulnerability Assessment, Container & API Security, Threat Modeling, Incident Response.
+# Cybersecurity Portfolio  
+**Steven Reji George**  
+*CBS-041 | Security Analyst & Compliance Specialist*  
 
 ---
 
-## 🔒 Author Verification
+## 🛡️ **About This Repository**  
+A collection of four hands-on security projects demonstrating expertise in:  
+- **Perimeter Security** (Zero Trust, SIEM)  
+- **Regulatory Compliance** (Windows/Linux Hardening)  
+- **Data Governance** (PCI-DSS/GDPR Implementation)  
+- **Secure Development** (SDLC, API/Container Security)  
 
-This repository is the original work of **Steven Reji George**.  
-Any reuse or reproduction without credit is strictly prohibited.  
-For verification or collaboration, contact: `stevenreji21@gmail.com`.
+---
 
-SHA256 Fingerprint: `d26831852fc2ce8f4d48fa0a6f65f66ef1870802f6c8d1e28f48293dc85d531b`  
-Generated on: 2025-08-08
+## 📂 **Project Catalog**  
+
+### 1. [🔒 Securing the Perimeter](1-Securing-the-Perimeter/)  
+**Tech:** VirtualBox, ELK Stack, Zero Trust  
+**Key Deliverables:**  
+- Redesigned network architecture post-breach (500 BTC theft)  
+- Deployed SIEM with Filebeat log forwarding  
+- Comparative analysis of Zero Trust vs. traditional models  
+
+### 2. [📜 Compliance Assessment](2-Compliance-Assessment/)  
+**Standards:** CMMC, NIST, GDPR  
+**Highlights:**  
+- Hardened 50+ Windows 10/macOS endpoints  
+- Automated Linux server compliance checks (AIDE, iptables)  
+- Developed corporate BYOD/Email security policies  
+
+### 3. [💳 Data Security Assessment](3-Data-Security-Assessment/)  
+**Regulations:** PCI-DSS, CCPA  
+**Achievements:**  
+- Classified 100K+ customer records (Confidential/Internal/Public)  
+- Implemented RSA-2048 disk encryption + SHA-256 file integrity checks  
+- Designed tiered backup strategy (real-time → daily)  
+
+### 4. [👨‍💻 Secure SDLC & API Security](4-Security-Assessment/)  
+**Focus Areas:**  
+- Integrated threat modeling into SDLC phases  
+- Remediated Shellshock (CVE-2014-6271) in containers  
+- Secured 3rd-party API data flows with RBAC/encryption  
+
+---
+
+## 🛠️ **Technical Toolbox**  
+<p align="center">
+  <img src="https://img.shields.io/badge/VirtualBox-183A61?logo=virtualbox" alt="VirtualBox">
+  <img src="https://img.shields.io/badge/ELK-005571?logo=elastic" alt="ELK Stack">
+  <img src="https://img.shields.io/badge/PowerShell-5391FE?logo=powershell" alt="PowerShell">
+  <img src="https://img.shields.io/badge/Trivy-1904DA?logo=aquasecurity" alt="Trivy">
+  <img src="https://img.shields.io/badge/GDPR-072C5F?logo=gdpr" alt="GDPR">
+</p>
+
+---
+
+## 📬 **Connect**  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin)](https://linkedin.com/in/yourprofile)  
+[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail)](mailto:your.email@example.com)  
+
+*✨ Tip: Click project titles above to view detailed READMEs with screenshots and code snippets!*
