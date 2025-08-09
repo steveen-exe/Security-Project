@@ -1,6 +1,3 @@
-### **3. Data Security Assessment**  
-**Location:** `3-Data-Security-Assessment/README.md`  
-```markdown
 # Data Governance & Confidentiality for JFin Payments  
 **Author:** Steven Reji George  
 
